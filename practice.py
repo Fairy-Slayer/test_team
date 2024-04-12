@@ -1,2 +1,2 @@
-print("Hello KMJ")
+print("Hello RBC")
 print("Hello YJH")
